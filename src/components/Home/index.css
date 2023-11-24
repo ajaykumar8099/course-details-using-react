@@ -1,0 +1,19 @@
+.success-cont {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-weight: 600;
+  font-family: 'roboto';
+  color: #4656a1;
+  align-self: flex-start;
+  margin-left: 36px;
+}
+.un-list-cont {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

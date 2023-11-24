@@ -1,0 +1,35 @@
+.main-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.course-card {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  box-shadow: 0px 4px 16px 0px #fbfbfb;
+}
+.sub-card {
+  padding: 20px;
+  padding-left: 30px;
+  font-family: 'roboto';
+}
+.card-head {
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 30px;
+}
+.full-img {
+  width: 50%;
+  height: 50%;
+}
+
+.card-description {
+  color: #475569;
+  font-weight: normal;
+  font-size: 23px;
+}
